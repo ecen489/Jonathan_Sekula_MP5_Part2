@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MP5_Part2</string>
+    <string-array name="topics_array">
+        <item>Gaming</item>
+        <item>Music</item>
+        <item>Sports</item>
+    </string-array>
+    <string-array name="questions_gaming_array">
+        <item>What is the most popular first person shooter franchise?</item>
+        <item>What is the trending genre of video game?</item>
+        <item>Who is the most popular gamer?</item>
+    </string-array>
+    <string-array name="answers_gaming_array">
+        <item>Call of Duty</item>
+        <item>battle royale</item>
+        <item>Ninja</item>
+    </string-array>
+    <string-array name="questions_music_array">
+        <item>What is the most popular genre of music?</item>
+        <item>Which musical genre influenced the birth of rock music?</item>
+        <item>Who is the most popular metal band?</item>
+    </string-array>
+    <string-array name="answers_music_array">
+        <item>pop</item>
+        <item>blues</item>
+        <item>Metallica</item>
+    </string-array>
+    <string-array name="questions_sports_array">
+        <item>Who is the GOAT in football?</item>
+        <item>Which team won the Super Bowl this year?</item>
+        <item>Who was rookie offensive player of the year?</item>
+    </string-array>
+    <string-array name="answers_sports_array">
+        <item>Tom Brady</item>
+        <item>Patriots</item>
+        <item>Saquon Barkley</item>
+    </string-array>
+</resources>
